@@ -10,6 +10,22 @@
 [![Raka's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakaspecsyai&exclude_repo=dotfiles,si-biji&theme=radical&layout=compact&hide=ejs,html,pug,css)](https://github.com/rakaspecsyai/github-readme-stats)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakaspecsyai&theme=radical" alt="rakaspecsyai" />
+
+<h2 align="center">Programming Languages</h2>
+
+---
+
+<p align="center">
+<img src="images/python.png" width="200px" height="200px">
+
+
+
+
+
+</p>
+
+
+
 <!---
 rakaspecsyai/rakaspecsyai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
