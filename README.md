@@ -1,6 +1,7 @@
 <h1 align="center">Kgs. Raka Renata</h2>
 
 - 👋 Hi, I’m @rakaspecsyai
+- 🤹 I'm generalist
 - 👀 I’m interested in Machine Learning, Ethical Hacking, Robotics and Computer Vision
 - 🌱 I’m currently student of Sriwijaya University 🏫
 - 💞️ I’m looking to collaborate to cool projects 🖥️
