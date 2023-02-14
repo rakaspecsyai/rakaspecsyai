@@ -31,7 +31,7 @@
 
 <h2 align="center">Contact Me</h2>
 
-![Linkedin](/images/arduino.png)
+[![Linkedin](/images/arduino.png)](https://www.linkedin.com/in/rakarenata)
 
 
 
