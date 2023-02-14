@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-<img src="images/python.png" width="200px" height="200px">
+<img src="images/python.png" width="100px" height="100px">
 
 
 
