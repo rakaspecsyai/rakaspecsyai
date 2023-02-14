@@ -26,18 +26,14 @@
 <img src="images/unity.png" width="200px">
 <img src="images/pygame.png" width="200px">
 
-
-
-
-
-
 ---
-
 </p>
 
+<h2 align="center">Contact Me</h2>
+
+![Linkedin](/images/arduino.png)
 
 
-<!---
-rakaspecsyai/rakaspecsyai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[Linkedin]: https://www.linkedin.com/in/rakarenata
+[Instagram]: https://www.instagram.com/rakarenata_
