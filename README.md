@@ -6,16 +6,16 @@
 - 💞️ I’m looking to collaborate to cool projects 🖥️
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rakaspecsyai&theme=radical&count_private=true)" alt="Raka's Github Stats">
-<br></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakaspecsyai&exclude_repo=dotfiles,si-biji&theme=radical&layout=compact&hide=ejs,html,pug,css">
+<br></br>
+<img src="https://github-readme-stats.vercel.app/api?username=rakaspecsyai&theme=radical&count_private=true)" alt="Raka's Github Stats">
 <br></br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakaspecsyai&theme=radical" alt="rakaspecsyai" />
 
 <h2 align="center">Programming Languages and Technologies</h2>
 </p>
----
 
+---
 <p align="center">
 <img src="images/python.png" width="100px" height="100px">
 <img src="images/java.png" width="100px" height="100px" alt="java">
