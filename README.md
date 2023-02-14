@@ -23,7 +23,7 @@
 <img src="images/cs.png" width="100px" height="100px" alt="C#">
 <img src="images/arduino.png" width="100px" height="100px" alt="arduino">
 <img src="images/unity.png" width="200px">
-<img src="images/">
+<img src="images/pygame.png" width="200px">
 
 
 
