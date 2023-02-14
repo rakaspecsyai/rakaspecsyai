@@ -36,7 +36,10 @@
     <img align="center" src="images/linkedin.png" width="50px">
 </a>
 
-<img src="images/instagram.png" alt="instagram" onclick="window.open('www.instagram.com/rakarenata_', '_blank');" />
+<p align="center">
+<img align="center" src="images/instagram.png" alt="instagram" onclick="window.open('www.instagram.com/rakarenata_', '_blank');" />
+
+</p>
 
 
 
