@@ -11,17 +11,22 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakaspecsyai&theme=radical" alt="rakaspecsyai" />
 
-<h2 align="center">Programming Languages</h2>
+<h2 align="center">Programming Languages and Technologies</h2>
 
 ---
 
 <p align="center">
 <img src="images/python.png" width="100px" height="100px">
-<img src ="images/java.png" width="100px" height="100px" alt="java">
+<img src="images/java.png" width="100px" height="100px" alt="java">
+<img src="images/C++.png" width="100px" height="100px" alt="C++">
+<img src="images/C#.png" width="100px" height="100px" alt="C#">
 
 
 
 
+
+
+---
 
 </p>
 
