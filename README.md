@@ -31,7 +31,9 @@
 
 <h2 align="center">Contact Me</h2>
 
-[![Linkedin](/images/arduino.png)](https://www.linkedin.com/in/rakarenata)
+
+[<img align="center" src="images/instagram.png" alt="@rakarenata_" width="50px" height="50px">][Instagram]
+[<img align="center" src="images/linkedin.png" alt="rakarenata" width="50px" width="50px">][Linkedin]
 
 
 
