@@ -18,8 +18,11 @@
 <p align="center">
 <img src="images/python.png" width="100px" height="100px">
 <img src="images/java.png" width="100px" height="100px" alt="java">
-<img src="images/C++.png" width="100px" height="100px" alt="C++">
-<img src="images/C#.png" width="100px" height="100px" alt="C#">
+<img src="images/cpp.png" width="100px" height="100px" alt="C++">
+<img src="images/cs.png" width="100px" height="100px" alt="C#">
+<img src="images/arduino.png" width="100px" height="100px" alt="arduino">
+<img src="images/unity.png" width="200px">
+<img src="images/">
 
 
 
