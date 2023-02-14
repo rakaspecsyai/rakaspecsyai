@@ -17,6 +17,7 @@
 
 <p align="center">
 <img src="images/python.png" width="100px" height="100px">
+<img src ="images/java.png" width="100px" height="100px" alt="java">
 
 
 
