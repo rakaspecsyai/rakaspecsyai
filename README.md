@@ -31,16 +31,14 @@
 
 <h2 align="center">Contact Me</h2>
 
-
-<a align="center" href="https://www.linkedin.com/in/rakarenata" target="_blank">
-    <img align="center" src="images/linkedin.png" width="50px">
-</a>
-
 <p align="center">
-<img align="center" src="images/instagram.png" alt="instagram" onclick="window.open('www.instagram.com/rakarenata_', '_blank');" />
-
+<a href="https://www.linkedin.com/in/rakarenata" target="_blank">
+    <img src="images/linkedin.png" width="60px" height="50px">
+</a>
+<a href="https://www.instagram.com/rakarenata_" target="_blank">
+    <img src="images/instagram.png" width="60px" height="60px">
+</a>
 </p>
-
 
 
 
