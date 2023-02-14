@@ -32,8 +32,12 @@
 <h2 align="center">Contact Me</h2>
 
 
-[<img align="center" src="images/instagram.png" alt="@rakarenata_" width="50px" height="50px">][Instagram]
-[<img align="center" src="images/linkedin.png" alt="rakarenata" width="50px" width="50px">][Linkedin]
+<a align="center" href="https://www.linkedin.com/in/rakarenata" target="_blank">
+    <img align="center" src="images/linkedin.png" width="50px">
+</a>
+
+<img src="images/instagram.png" alt="instagram" onclick="window.open('https:/\/www.instagram.com/rakarenata_', '_blank');" />
+
 
 
 
